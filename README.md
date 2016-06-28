@@ -1,6 +1,6 @@
 ##  CODE FOR VISUAL STUDIO CODE
 
-add it in user preferences, if you want to some any files.
+add it in user preferences, if you want to hide some any files.
 
 this is only for beginners 
 
