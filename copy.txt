@@ -18,7 +18,6 @@
 "**/assets":true,
 "**/.gitattributes":true,
 "**/.gitignore":true,
-"**/.env.example":true,
 "**/.artisan":true,
 "**/composer.lock":true,
 "**/gulpfile.js":true,
@@ -28,4 +27,5 @@
 "**/phpunit.xml":true,
 "**/server.php":true,
 "**/Kernel.php":true,
-"**/index.php":true
+"**/index.php":true,
+"**/.gitkeep":true

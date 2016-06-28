@@ -45,8 +45,6 @@ this is only for beginners, enjoy it.
 
 "**/.gitignore":true,
 
-"**/.env.example":true,
-
 "**/.artisan":true,
 
 "**/composer.lock":true,
@@ -65,4 +63,6 @@ this is only for beginners, enjoy it.
 
 "**/Kernel.php":true,
 
-"**/index.php":true
+"**/index.php":true,
+
+"**/.gitkeep":true,
