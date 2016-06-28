@@ -2,7 +2,8 @@
 
 add it in user preferences, if you want to hide some any files.
 
-this is only for beginners 
+this is only for beginners, enjoy it.
+
 
 "**/vendor":true,
 
