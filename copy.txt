@@ -27,4 +27,5 @@
 "**/artisan":true,
 "**/phpunit.xml":true,
 "**/server.php":true,
-"**/Kernel.php":true
+"**/Kernel.php":true,
+"**/index.php":true

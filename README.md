@@ -63,4 +63,6 @@ this is only for beginners, enjoy it.
 
 "**/server.php":true,
 
-"**/Kernel.php":true
+"**/Kernel.php":true,
+
+"**/index.php":true
